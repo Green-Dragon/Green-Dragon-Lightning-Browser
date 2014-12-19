@@ -1,0 +1,34 @@
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.exe.config
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.exe
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.pdb
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.xml
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\bin\x86\Release\FastColoredTextBox.dll
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.About.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.Form1.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.DevTools.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.History.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.Resources.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.BrowserTab.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.PageInfoDialog.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.Settings.resources
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.vbproj.GenerateResource.Cache
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.exe
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.xml
+E:\csp\Documents\Visual Studio 2012\Projects\BrowserTutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.exe.config
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.exe
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.xml
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.vbprojResolveAssemblyReference.cache
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.About.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.Form1.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.DevTools.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.History.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.Resources.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.BrowserTab.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.PageInfoDialog.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.Settings.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\BrowserTutorial.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.exe
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\BrowserTutorial.xml

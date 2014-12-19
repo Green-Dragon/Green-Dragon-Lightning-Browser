@@ -1,0 +1,67 @@
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\Green Dragon Lightning.exe.config
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\bin\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.About.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.Form1.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.DevTools.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.History.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.Resources.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.BrowserTab.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.PageInfoDialog.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\GreenDragonLightning.Settings.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\Green Dragon Lightning.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\BrowserTutorial\obj\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\bin\x86\Release\Green Dragon Lightning.exe.config
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\bin\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\bin\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\bin\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\Green Dragon Lightning.vbprojResolveAssemblyReference.cache
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.About.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.Form1.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.DevTools.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.History.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.Resources.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.BrowserTab.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.PageInfoDialog.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\GreenDragonLightning.Settings.resources
+C:\Users\emils_000\Downloads\awesomiumbrowser_tutorial\AwesomiumBrowser Tutorial\Lightning\obj\x86\Release\Green Dragon Lightning.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\bin\x86\Release\Green Dragon Lightning.exe.config
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\bin\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\bin\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\bin\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\Green Dragon Lightning.vbprojResolveAssemblyReference.cache
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.About.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.Form1.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.DevTools.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.History.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.Resources.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.BrowserTab.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.PageInfoDialog.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\GreenDragonLightning.Settings.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Lightning\obj\x86\Release\Green Dragon Lightning.vbproj.GenerateResource.Cache
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.exe.config
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.exe
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.pdb
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.xml
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\Green Dragon Lightning.vbprojResolveAssemblyReference.cache
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.About.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.Form1.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.DevTools.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.History.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.Resources.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.BrowserTab.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.PageInfoDialog.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.Settings.resources
+C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\Green Dragon Lightning.vbproj.GenerateResource.Cache
