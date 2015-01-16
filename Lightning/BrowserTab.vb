@@ -84,7 +84,7 @@ Public Class BrowserTab
         Next
 
         If Not infav Then 'Add favorite
-            Dim title As String = InputBox("What do you want to name the favorite as? " + url + " ?", "Favorites", mytabpage.Text) 'ask for title
+            Dim title As String = InputBox("What do you want to name the favorite as? " + url + "?", "Favorites", mytabpage.Text) 'ask for title
             If title = "" Then
                 Exit Sub
             End If
@@ -418,4 +418,6 @@ Public Class BrowserTab
     Private Sub urlbar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles urlbar.Click
         urlbar.SelectAll()
     End Sub
+
+
 End Class

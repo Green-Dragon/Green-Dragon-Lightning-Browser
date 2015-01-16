@@ -26,13 +26,13 @@ OutputDir=C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Light
 SetupIconFile=C:\Users\emils_000\Desktop\Dragon\Green Dragon\greendragon.ico
 Compression=lzma
 SolidCompression=yes
-VersionInfoVersion=1.0.0.0
+VersionInfoVersion=1.1.0.0
 VersionInfoCompany=Green Dragon
 VersionInfoDescription=Green Dragon Lightning
-VersionInfoTextVersion=1.0.0.0
+VersionInfoTextVersion=1.1.0.0
 VersionInfoProductName=Green Dragon Lightning
-VersionInfoProductVersion=1.0.0.0
-VersionInfoProductTextVersion=1.0.0.0
+VersionInfoProductVersion=1.1.0.0
+VersionInfoProductTextVersion=1.1.0.0
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"

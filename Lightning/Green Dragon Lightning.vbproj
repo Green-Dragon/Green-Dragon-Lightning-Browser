@@ -62,7 +62,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>greendragon.ico</ApplicationIcon>
+    <ApplicationIcon>GreenDragon_New.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <DebugSymbols>true</DebugSymbols>
@@ -262,6 +262,7 @@
   <ItemGroup>
     <Content Include="globe.ico" />
     <Content Include="greendragon.ico" />
+    <Content Include="GreenDragon_New.ico" />
     <Content Include="Icon.ico" />
     <None Include="Resources\forward_grey.png" />
     <None Include="Resources\back_grey.png" />
