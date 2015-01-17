@@ -42,19 +42,22 @@ Partial Class BrowserTab
         Me.ExitToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.WebSessionProvider1 = New Awesomium.Windows.Forms.WebSessionProvider(Me.components)
         Me.browser = New Awesomium.Windows.Forms.WebControl(Me.components)
+        Me.WebControlContextMenu1 = New Awesomium.Windows.Forms.WebControlContextMenu(Me.components)
         Me.FaviconGrabber = New System.ComponentModel.BackgroundWorker()
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.URLbarpanel = New System.Windows.Forms.Panel()
-        Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.fav = New System.Windows.Forms.PictureBox()
         Me.pageinfo = New System.Windows.Forms.PictureBox()
         Me.favicon = New System.Windows.Forms.PictureBox()
+        Me.ToolTip1 = New System.Windows.Forms.ToolTip(Me.components)
         Me.home = New System.Windows.Forms.PictureBox()
         Me.refreshpage = New System.Windows.Forms.PictureBox()
         Me.forward = New System.Windows.Forms.PictureBox()
         Me.back = New System.Windows.Forms.PictureBox()
         Me.menu = New System.Windows.Forms.PictureBox()
+        Me.ToolStripAddressBox1 = New Awesomium.Windows.Forms.ToolStripAddressBox()
         Me.menudrop.SuspendLayout()
+        Me.WebControlContextMenu1.SuspendLayout()
         Me.URLbarpanel.SuspendLayout()
         CType(Me.fav, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.pageinfo, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -183,10 +186,19 @@ Partial Class BrowserTab
         Me.browser.Anchor = CType((((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Bottom) _
             Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.browser.ContextMenuStrip = Me.WebControlContextMenu1
         Me.browser.Location = New System.Drawing.Point(0, 61)
         Me.browser.NavigationInfo = Awesomium.Core.NavigationInfo.None
         Me.browser.Size = New System.Drawing.Size(809, 423)
         Me.browser.TabIndex = 11
+        '
+        'WebControlContextMenu1
+        '
+        Me.WebControlContextMenu1.ImeMode = System.Windows.Forms.ImeMode.[On]
+        Me.WebControlContextMenu1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ToolStripAddressBox1})
+        Me.WebControlContextMenu1.Name = "WebControlContextMenu1"
+        Me.WebControlContextMenu1.Size = New System.Drawing.Size(204, 361)
+        Me.WebControlContextMenu1.View = Me.browser
         '
         'FaviconGrabber
         '
@@ -326,11 +338,20 @@ Partial Class BrowserTab
         Me.menu.TabStop = False
         Me.ToolTip1.SetToolTip(Me.menu, "Menu")
         '
+        'ToolStripAddressBox1
+        '
+        Me.ToolStripAddressBox1.Font = New System.Drawing.Font("Segoe UI", 9.0!)
+        Me.ToolStripAddressBox1.Name = "ToolStripAddressBox1"
+        Me.ToolStripAddressBox1.Size = New System.Drawing.Size(100, 23)
+        Me.ToolStripAddressBox1.URL = Nothing
+        Me.ToolStripAddressBox1.WebControl = Me.browser
+        '
         'BrowserTab
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
+        Me.ContextMenuStrip = Me.WebControlContextMenu1
         Me.Controls.Add(Me.browser)
         Me.Controls.Add(Me.URLbarpanel)
         Me.Controls.Add(Me.Panel1)
@@ -340,10 +361,13 @@ Partial Class BrowserTab
         Me.Controls.Add(Me.forward)
         Me.Controls.Add(Me.back)
         Me.Controls.Add(Me.menu)
+        Me.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.Margin = New System.Windows.Forms.Padding(0)
         Me.Name = "BrowserTab"
         Me.Size = New System.Drawing.Size(809, 484)
         Me.menudrop.ResumeLayout(False)
+        Me.WebControlContextMenu1.ResumeLayout(False)
+        Me.WebControlContextMenu1.PerformLayout()
         Me.URLbarpanel.ResumeLayout(False)
         Me.URLbarpanel.PerformLayout()
         CType(Me.fav, System.ComponentModel.ISupportInitialize).EndInit()
@@ -386,5 +410,7 @@ Partial Class BrowserTab
     Friend WithEvents ToolTip1 As System.Windows.Forms.ToolTip
     Friend WithEvents AboutToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents browser As Awesomium.Windows.Forms.WebControl
+    Friend WithEvents WebControlContextMenu1 As Awesomium.Windows.Forms.WebControlContextMenu
+    Friend WithEvents ToolStripAddressBox1 As Awesomium.Windows.Forms.ToolStripAddressBox
 
 End Class

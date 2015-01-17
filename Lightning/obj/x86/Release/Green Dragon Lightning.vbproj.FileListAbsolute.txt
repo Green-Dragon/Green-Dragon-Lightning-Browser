@@ -55,7 +55,6 @@ C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Brows
 C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.exe
 C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.pdb
 C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\bin\x86\Release\Green Dragon Lightning.xml
-C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\Green Dragon Lightning.vbprojResolveAssemblyReference.cache
 C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.About.resources
 C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.Form1.resources
 C:\Users\emils_000\Documents\Green Dragon Lightning\Green-Dragon-Lightning-Browser\Lightning\obj\x86\Release\GreenDragonLightning.DevTools.resources

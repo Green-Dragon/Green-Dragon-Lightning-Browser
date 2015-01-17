@@ -87,6 +87,7 @@ Partial Class DevTools
         Me.FastColoredTextBox1.CommentPrefix = Nothing
         Me.FastColoredTextBox1.Cursor = System.Windows.Forms.Cursors.IBeam
         Me.FastColoredTextBox1.DisabledColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(180, Byte), Integer), CType(CType(180, Byte), Integer), CType(CType(180, Byte), Integer))
+        Me.FastColoredTextBox1.Font = New System.Drawing.Font("Courier New", 9.75!)
         Me.FastColoredTextBox1.IsReplaceMode = False
         Me.FastColoredTextBox1.Language = FastColoredTextBoxNS.Language.HTML
         Me.FastColoredTextBox1.LeftBracket = Global.Microsoft.VisualBasic.ChrW(60)
@@ -208,7 +209,7 @@ Partial Class DevTools
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "DevTools"
-        Me.Text = "DevTools"
+        Me.Text = "Developer Tools"
         Me.TabControl1.ResumeLayout(False)
         Me.TabPage1.ResumeLayout(False)
         CType(Me.FastColoredTextBox1, System.ComponentModel.ISupportInitialize).EndInit()

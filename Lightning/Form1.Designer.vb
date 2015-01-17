@@ -82,6 +82,7 @@ Partial Class Form1
         Me.TabControl1.DisplayStyleProvider.TextColorSelected = System.Drawing.SystemColors.ControlText
         Me.TabControl1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TabControl1.HotTrack = True
+        Me.TabControl1.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.TabControl1.ItemSize = New System.Drawing.Size(150, 22)
         Me.TabControl1.Location = New System.Drawing.Point(0, 0)
         Me.TabControl1.Margin = New System.Windows.Forms.Padding(0)
@@ -99,6 +100,7 @@ Partial Class Form1
         Me.Controls.Add(Me.TabControl1)
         Me.Controls.Add(Me.Downloadsbar)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.MinimumSize = New System.Drawing.Size(750, 600)
         Me.Name = "Form1"
         Me.Text = "Green Dragon Lightning"
